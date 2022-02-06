@@ -647,7 +647,7 @@ h1{
 
 .images__players{
   width: 100%;
-  height: 80vh;
+  height: 180%;
   display:grid;
   place-items:center;
 }
